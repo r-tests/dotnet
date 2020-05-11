@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key="SSHValue" value="rubeen.de" />
+		<add key="SSHUser" value="root" />
+		<add key="SSHPassword" value="kusapit(k3seq-k9goweqow&l" />
+		<add key="SSHPort" value="3333" />
+		<add key="SQLHost" value="localhost" />
+		<add key="SQLIPA" value="Server=rubeen.de; Port=3306; Database=rubeen_testdatenbank; Uid=datentester; Pwd=0sb7PmkkCl#r8Ajj" />
+		<add key="SQLPort" value="3306" />
+		<add key="SQLConnectionString" value="" />
+	</appSettings>
+</configuration>
